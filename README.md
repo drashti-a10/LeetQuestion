@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/drashti-a10/LeetQuestion/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/drashti-a10/LeetQuestion/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/drashti-a10/LeetQuestion/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0042-trapping-rain-water](https://github.com/drashti-a10/LeetQuestion/tree/main/0042-trapping-rain-water/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/drashti-a10/LeetQuestion/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/drashti-a10/LeetQuestion/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/drashti-a10/LeetQuestion/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -21,6 +22,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/drashti-a10/LeetQuestion/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/drashti-a10/LeetQuestion/tree/main/0015-3sum/) | Medium |
+| [0042-trapping-rain-water](https://github.com/drashti-a10/LeetQuestion/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/drashti-a10/LeetQuestion/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/drashti-a10/LeetQuestion/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/drashti-a10/LeetQuestion/tree/main/0283-move-zeroes/) | Easy |
@@ -66,6 +68,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/drashti-a10/LeetQuestion/tree/main/0042-trapping-rain-water/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/drashti-a10/LeetQuestion/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/drashti-a10/LeetQuestion/tree/main/0152-maximum-product-subarray/) | Medium |
 ## Sorting
@@ -73,4 +76,12 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/drashti-a10/LeetQuestion/tree/main/0015-3sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/drashti-a10/LeetQuestion/tree/main/0217-contains-duplicate/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/drashti-a10/LeetQuestion/tree/main/0042-trapping-rain-water/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/drashti-a10/LeetQuestion/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
