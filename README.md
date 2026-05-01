@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/drashti-a10/LeetQuestion/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/drashti-a10/LeetQuestion/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/drashti-a10/LeetQuestion/tree/main/0042-trapping-rain-water/) | Hard |
+| [0056-merge-intervals](https://github.com/drashti-a10/LeetQuestion/tree/main/0056-merge-intervals/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/drashti-a10/LeetQuestion/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/drashti-a10/LeetQuestion/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/drashti-a10/LeetQuestion/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -75,6 +76,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/drashti-a10/LeetQuestion/tree/main/0015-3sum/) | Medium |
+| [0056-merge-intervals](https://github.com/drashti-a10/LeetQuestion/tree/main/0056-merge-intervals/) | Medium |
 | [0217-contains-duplicate](https://github.com/drashti-a10/LeetQuestion/tree/main/0217-contains-duplicate/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
