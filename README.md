@@ -12,6 +12,7 @@
 | [0056-merge-intervals](https://github.com/drashti-a10/LeetQuestion/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/drashti-a10/LeetQuestion/tree/main/0057-insert-interval/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/drashti-a10/LeetQuestion/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/drashti-a10/LeetQuestion/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/drashti-a10/LeetQuestion/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/drashti-a10/LeetQuestion/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/drashti-a10/LeetQuestion/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -41,6 +42,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/drashti-a10/LeetQuestion/tree/main/0001-two-sum/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/drashti-a10/LeetQuestion/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/drashti-a10/LeetQuestion/tree/main/0217-contains-duplicate/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/drashti-a10/LeetQuestion/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Prefix Sum
@@ -97,4 +99,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/drashti-a10/LeetQuestion/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/drashti-a10/LeetQuestion/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
