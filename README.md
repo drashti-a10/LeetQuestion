@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/drashti-a10/LeetQuestion/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/drashti-a10/LeetQuestion/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/drashti-a10/LeetQuestion/tree/main/0015-3sum/) | Medium |
+| [0031-next-permutation](https://github.com/drashti-a10/LeetQuestion/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/drashti-a10/LeetQuestion/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/drashti-a10/LeetQuestion/tree/main/0042-trapping-rain-water/) | Hard |
 | [0056-merge-intervals](https://github.com/drashti-a10/LeetQuestion/tree/main/0056-merge-intervals/) | Medium |
@@ -28,6 +29,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/drashti-a10/LeetQuestion/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/drashti-a10/LeetQuestion/tree/main/0015-3sum/) | Medium |
+| [0031-next-permutation](https://github.com/drashti-a10/LeetQuestion/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/drashti-a10/LeetQuestion/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/drashti-a10/LeetQuestion/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/drashti-a10/LeetQuestion/tree/main/0125-valid-palindrome/) | Easy |
