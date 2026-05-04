@@ -10,6 +10,7 @@
 | [0031-next-permutation](https://github.com/drashti-a10/LeetQuestion/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/drashti-a10/LeetQuestion/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/drashti-a10/LeetQuestion/tree/main/0042-trapping-rain-water/) | Hard |
+| [0055-jump-game](https://github.com/drashti-a10/LeetQuestion/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/drashti-a10/LeetQuestion/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/drashti-a10/LeetQuestion/tree/main/0057-insert-interval/) | Medium |
 | [0075-sort-colors](https://github.com/drashti-a10/LeetQuestion/tree/main/0075-sort-colors/) | Medium |
@@ -42,6 +43,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/drashti-a10/LeetQuestion/tree/main/0011-container-with-most-water/) | Medium |
+| [0055-jump-game](https://github.com/drashti-a10/LeetQuestion/tree/main/0055-jump-game/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,6 +85,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/drashti-a10/LeetQuestion/tree/main/0042-trapping-rain-water/) | Hard |
+| [0055-jump-game](https://github.com/drashti-a10/LeetQuestion/tree/main/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/drashti-a10/LeetQuestion/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/drashti-a10/LeetQuestion/tree/main/0152-maximum-product-subarray/) | Medium |
 ## Sorting
