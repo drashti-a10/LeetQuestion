@@ -50,6 +50,7 @@
 | [0001-two-sum](https://github.com/drashti-a10/LeetQuestion/tree/main/0001-two-sum/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/drashti-a10/LeetQuestion/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/drashti-a10/LeetQuestion/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/drashti-a10/LeetQuestion/tree/main/0242-valid-anagram/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/drashti-a10/LeetQuestion/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -80,6 +81,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/drashti-a10/LeetQuestion/tree/main/0125-valid-palindrome/) | Easy |
+| [0242-valid-anagram](https://github.com/drashti-a10/LeetQuestion/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/drashti-a10/LeetQuestion/tree/main/0344-reverse-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -95,6 +97,7 @@
 | [0056-merge-intervals](https://github.com/drashti-a10/LeetQuestion/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/drashti-a10/LeetQuestion/tree/main/0075-sort-colors/) | Medium |
 | [0217-contains-duplicate](https://github.com/drashti-a10/LeetQuestion/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/drashti-a10/LeetQuestion/tree/main/0242-valid-anagram/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
