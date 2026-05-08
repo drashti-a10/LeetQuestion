@@ -40,6 +40,7 @@
 | [0283-move-zeroes](https://github.com/drashti-a10/LeetQuestion/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/drashti-a10/LeetQuestion/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/drashti-a10/LeetQuestion/tree/main/0344-reverse-string/) | Easy |
+| [0647-palindromic-substrings](https://github.com/drashti-a10/LeetQuestion/tree/main/0647-palindromic-substrings/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,6 +94,7 @@
 | [0242-valid-anagram](https://github.com/drashti-a10/LeetQuestion/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/drashti-a10/LeetQuestion/tree/main/0344-reverse-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/drashti-a10/LeetQuestion/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0647-palindromic-substrings](https://github.com/drashti-a10/LeetQuestion/tree/main/0647-palindromic-substrings/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,6 +102,7 @@
 | [0055-jump-game](https://github.com/drashti-a10/LeetQuestion/tree/main/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/drashti-a10/LeetQuestion/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/drashti-a10/LeetQuestion/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0647-palindromic-substrings](https://github.com/drashti-a10/LeetQuestion/tree/main/0647-palindromic-substrings/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
