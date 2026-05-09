@@ -14,10 +14,10 @@ var maxArea = function(height) {
 
         maxWater = Math.max(maxWater, area);
 
-        if(height[left]<height[right]){
-            left++;
-        }else{
+        if(height[left]>=height[right]){
             right--;
+        }else{
+            left++;
         }
     }
     return maxWater;
