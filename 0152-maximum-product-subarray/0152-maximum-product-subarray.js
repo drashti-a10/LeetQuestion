@@ -11,10 +11,9 @@
         let curr = nums[i];
 
         let tempMax = Math.max(curr, curr * maxProd, curr * minProd);
-        let tempMin = Math.min(curr, curr * maxProd, curr * minProd);
+        minProd = Math.min(curr, curr * maxProd, curr * minProd);
 
         maxProd = tempMax;
-        minProd = tempMin;
 
         result = Math.max(result, maxProd);
     }
