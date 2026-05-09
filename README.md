@@ -11,6 +11,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/drashti-a10/LeetQuestion/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/drashti-a10/LeetQuestion/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/drashti-a10/LeetQuestion/tree/main/0049-group-anagrams/) | Medium |
+| [0053-maximum-subarray](https://github.com/drashti-a10/LeetQuestion/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/drashti-a10/LeetQuestion/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/drashti-a10/LeetQuestion/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/drashti-a10/LeetQuestion/tree/main/0057-insert-interval/) | Medium |
@@ -104,6 +105,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/drashti-a10/LeetQuestion/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/drashti-a10/LeetQuestion/tree/main/0042-trapping-rain-water/) | Hard |
+| [0053-maximum-subarray](https://github.com/drashti-a10/LeetQuestion/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/drashti-a10/LeetQuestion/tree/main/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/drashti-a10/LeetQuestion/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/drashti-a10/LeetQuestion/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -140,4 +142,8 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/drashti-a10/LeetQuestion/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/drashti-a10/LeetQuestion/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/drashti-a10/LeetQuestion/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/drashti-a10/LeetQuestion/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
