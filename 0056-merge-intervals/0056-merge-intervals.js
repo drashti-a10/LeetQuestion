@@ -10,7 +10,7 @@ var merge = function(intervals) {
     let result = [];
     let current = intervals[0];
 
-    for(let i=0; i< intervals.length; i++){
+    for(let i=1; i< intervals.length; i++){
         let next = intervals[i];
 
         if(current[1]>= next[0]){
