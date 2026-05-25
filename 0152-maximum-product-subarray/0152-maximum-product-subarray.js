@@ -2,21 +2,17 @@
  * @param {number[]} nums
  * @return {number}
  */
- var maxProduct = function(nums) {
-    let maxProd = nums[0];
-    let minProd = nums[0];
-    let result = nums[0];
+var maxProduct = function(nums) {
+   let leftProduct = 1;
+   let rightProduct = 1;
+   let ans = -Infinity;
+   for(let i = 0; i<nums.length; i++){
+    leftProduct = leftProduct == 0? 1: leftProduct;
+    rightProduct = rightProduct == 0? 1: rightProduct;
 
-    for (let i = 1; i < nums.length; i++) {
-        let curr = nums[i];
-
-        let tempMax = Math.max(curr, curr * maxProd, curr * minProd);
-        minProd = Math.min(curr, curr * maxProd, curr * minProd);
-
-        maxProd = tempMax;
-
-        result = Math.max(result, maxProd);
-    }
-
-    return result;
+    leftProduct *= nums[i];
+    rightProduct *= nums[nums.length - 1 - i];
+    ans = Math.max(ans, Math.max(leftProduct, rightProduct));
+   } 
+   return ans;
 };
