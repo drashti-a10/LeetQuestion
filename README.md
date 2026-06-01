@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/drashti-a10/LeetQuestion/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/drashti-a10/LeetQuestion/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/drashti-a10/LeetQuestion/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/drashti-a10/LeetQuestion/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/drashti-a10/LeetQuestion/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/drashti-a10/LeetQuestion/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/drashti-a10/LeetQuestion/tree/main/0053-maximum-subarray/) | Medium |
@@ -94,6 +95,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/drashti-a10/LeetQuestion/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/drashti-a10/LeetQuestion/tree/main/0035-search-insert-position/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/drashti-a10/LeetQuestion/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/drashti-a10/LeetQuestion/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/drashti-a10/LeetQuestion/tree/main/0287-find-the-duplicate-number/) | Medium |
