@@ -27,6 +27,7 @@
 | [0283-move-zeroes](https://github.com/drashti-a10/LeetQuestion/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/drashti-a10/LeetQuestion/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/drashti-a10/LeetQuestion/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0704-binary-search](https://github.com/drashti-a10/LeetQuestion/tree/main/0704-binary-search/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,6 +97,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/drashti-a10/LeetQuestion/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/drashti-a10/LeetQuestion/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/drashti-a10/LeetQuestion/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0704-binary-search](https://github.com/drashti-a10/LeetQuestion/tree/main/0704-binary-search/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
