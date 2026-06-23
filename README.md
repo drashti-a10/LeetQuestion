@@ -50,6 +50,7 @@
 | [0287-find-the-duplicate-number](https://github.com/drashti-a10/LeetQuestion/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/drashti-a10/LeetQuestion/tree/main/0344-reverse-string/) | Easy |
 | [0647-palindromic-substrings](https://github.com/drashti-a10/LeetQuestion/tree/main/0647-palindromic-substrings/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/drashti-a10/LeetQuestion/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,6 +86,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/drashti-a10/LeetQuestion/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/drashti-a10/LeetQuestion/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/drashti-a10/LeetQuestion/tree/main/0206-reverse-linked-list/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/drashti-a10/LeetQuestion/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
