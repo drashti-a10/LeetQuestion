@@ -85,6 +85,7 @@
 | [0002-add-two-numbers](https://github.com/drashti-a10/LeetQuestion/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/drashti-a10/LeetQuestion/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/drashti-a10/LeetQuestion/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0023-merge-k-sorted-lists](https://github.com/drashti-a10/LeetQuestion/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0141-linked-list-cycle](https://github.com/drashti-a10/LeetQuestion/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/drashti-a10/LeetQuestion/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/drashti-a10/LeetQuestion/tree/main/0143-reorder-list/) | Medium |
@@ -173,9 +174,18 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/drashti-a10/LeetQuestion/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/drashti-a10/LeetQuestion/tree/main/0053-maximum-subarray/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/drashti-a10/LeetQuestion/tree/main/0303-range-sum-query-immutable/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/drashti-a10/LeetQuestion/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/drashti-a10/LeetQuestion/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
