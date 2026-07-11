@@ -48,6 +48,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/drashti-a10/LeetQuestion/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/drashti-a10/LeetQuestion/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/drashti-a10/LeetQuestion/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/drashti-a10/LeetQuestion/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/drashti-a10/LeetQuestion/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/drashti-a10/LeetQuestion/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/drashti-a10/LeetQuestion/tree/main/0344-reverse-string/) | Easy |
@@ -69,6 +70,7 @@
 | [0141-linked-list-cycle](https://github.com/drashti-a10/LeetQuestion/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/drashti-a10/LeetQuestion/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/drashti-a10/LeetQuestion/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0202-happy-number](https://github.com/drashti-a10/LeetQuestion/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/drashti-a10/LeetQuestion/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/drashti-a10/LeetQuestion/tree/main/0242-valid-anagram/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/drashti-a10/LeetQuestion/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -97,6 +99,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/drashti-a10/LeetQuestion/tree/main/0002-add-two-numbers/) | Medium |
 | [0189-rotate-array](https://github.com/drashti-a10/LeetQuestion/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/drashti-a10/LeetQuestion/tree/main/0202-happy-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
