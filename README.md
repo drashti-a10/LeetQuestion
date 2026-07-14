@@ -135,6 +135,7 @@
 | [0383-ransom-note](https://github.com/drashti-a10/LeetQuestion/tree/main/0383-ransom-note/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/drashti-a10/LeetQuestion/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0647-palindromic-substrings](https://github.com/drashti-a10/LeetQuestion/tree/main/0647-palindromic-substrings/) | Medium |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/drashti-a10/LeetQuestion/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -160,6 +161,7 @@
 | [0020-valid-parentheses](https://github.com/drashti-a10/LeetQuestion/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/drashti-a10/LeetQuestion/tree/main/0042-trapping-rain-water/) | Hard |
 | [0143-reorder-list](https://github.com/drashti-a10/LeetQuestion/tree/main/0143-reorder-list/) | Medium |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/drashti-a10/LeetQuestion/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
