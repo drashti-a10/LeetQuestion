@@ -71,6 +71,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/drashti-a10/LeetQuestion/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/drashti-a10/LeetQuestion/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0202-happy-number](https://github.com/drashti-a10/LeetQuestion/tree/main/0202-happy-number/) | Easy |
+| [0205-isomorphic-strings](https://github.com/drashti-a10/LeetQuestion/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/drashti-a10/LeetQuestion/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/drashti-a10/LeetQuestion/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/drashti-a10/LeetQuestion/tree/main/0383-ransom-note/) | Easy |
@@ -128,6 +129,7 @@
 | [0076-minimum-window-substring](https://github.com/drashti-a10/LeetQuestion/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/drashti-a10/LeetQuestion/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/drashti-a10/LeetQuestion/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0205-isomorphic-strings](https://github.com/drashti-a10/LeetQuestion/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/drashti-a10/LeetQuestion/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/drashti-a10/LeetQuestion/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/drashti-a10/LeetQuestion/tree/main/0383-ransom-note/) | Easy |
