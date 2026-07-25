@@ -74,6 +74,7 @@
 | [0205-isomorphic-strings](https://github.com/drashti-a10/LeetQuestion/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/drashti-a10/LeetQuestion/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/drashti-a10/LeetQuestion/tree/main/0242-valid-anagram/) | Easy |
+| [0290-word-pattern](https://github.com/drashti-a10/LeetQuestion/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/drashti-a10/LeetQuestion/tree/main/0383-ransom-note/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/drashti-a10/LeetQuestion/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/drashti-a10/LeetQuestion/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -131,6 +132,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/drashti-a10/LeetQuestion/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/drashti-a10/LeetQuestion/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/drashti-a10/LeetQuestion/tree/main/0242-valid-anagram/) | Easy |
+| [0290-word-pattern](https://github.com/drashti-a10/LeetQuestion/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/drashti-a10/LeetQuestion/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/drashti-a10/LeetQuestion/tree/main/0383-ransom-note/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/drashti-a10/LeetQuestion/tree/main/0424-longest-repeating-character-replacement/) | Medium |
