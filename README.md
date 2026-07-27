@@ -163,6 +163,7 @@
 | [0020-valid-parentheses](https://github.com/drashti-a10/LeetQuestion/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/drashti-a10/LeetQuestion/tree/main/0042-trapping-rain-water/) | Hard |
 | [0143-reorder-list](https://github.com/drashti-a10/LeetQuestion/tree/main/0143-reorder-list/) | Medium |
+| [0225-implement-stack-using-queues](https://github.com/drashti-a10/LeetQuestion/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/drashti-a10/LeetQuestion/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/drashti-a10/LeetQuestion/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Monotonic Stack
@@ -191,6 +192,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/drashti-a10/LeetQuestion/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/drashti-a10/LeetQuestion/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/drashti-a10/LeetQuestion/tree/main/0303-range-sum-query-immutable/) | Easy |
 ## Heap (Priority Queue)
@@ -208,5 +210,6 @@
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/drashti-a10/LeetQuestion/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/drashti-a10/LeetQuestion/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
