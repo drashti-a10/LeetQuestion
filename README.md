@@ -33,6 +33,7 @@
 | [0503-next-greater-element-ii](https://github.com/drashti-a10/LeetQuestion/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/drashti-a10/LeetQuestion/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/drashti-a10/LeetQuestion/tree/main/0704-binary-search/) | Easy |
+| [0739-daily-temperatures](https://github.com/drashti-a10/LeetQuestion/tree/main/0739-daily-temperatures/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -175,6 +176,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/drashti-a10/LeetQuestion/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0496-next-greater-element-i](https://github.com/drashti-a10/LeetQuestion/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/drashti-a10/LeetQuestion/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0739-daily-temperatures](https://github.com/drashti-a10/LeetQuestion/tree/main/0739-daily-temperatures/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/drashti-a10/LeetQuestion/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -182,6 +184,7 @@
 | [0042-trapping-rain-water](https://github.com/drashti-a10/LeetQuestion/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/drashti-a10/LeetQuestion/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/drashti-a10/LeetQuestion/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0739-daily-temperatures](https://github.com/drashti-a10/LeetQuestion/tree/main/0739-daily-temperatures/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
