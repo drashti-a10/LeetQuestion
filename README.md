@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/drashti-a10/LeetQuestion/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/drashti-a10/LeetQuestion/tree/main/0011-container-with-most-water/) | Medium |
+| [0014-longest-common-prefix](https://github.com/drashti-a10/LeetQuestion/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/drashti-a10/LeetQuestion/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/drashti-a10/LeetQuestion/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/drashti-a10/LeetQuestion/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -138,6 +139,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/drashti-a10/LeetQuestion/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/drashti-a10/LeetQuestion/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/drashti-a10/LeetQuestion/tree/main/0006-zigzag-conversion/) | Medium |
+| [0014-longest-common-prefix](https://github.com/drashti-a10/LeetQuestion/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/drashti-a10/LeetQuestion/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/drashti-a10/LeetQuestion/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/drashti-a10/LeetQuestion/tree/main/0076-minimum-window-substring/) | Hard |
@@ -255,4 +257,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0085-maximal-rectangle](https://github.com/drashti-a10/LeetQuestion/tree/main/0085-maximal-rectangle/) | Hard |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/drashti-a10/LeetQuestion/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
