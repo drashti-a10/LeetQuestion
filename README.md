@@ -124,6 +124,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/drashti-a10/LeetQuestion/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0143-reorder-list](https://github.com/drashti-a10/LeetQuestion/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/drashti-a10/LeetQuestion/tree/main/0206-reverse-linked-list/) | Easy |
+| [0394-decode-string](https://github.com/drashti-a10/LeetQuestion/tree/main/0394-decode-string/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,6 +151,7 @@
 | [0290-word-pattern](https://github.com/drashti-a10/LeetQuestion/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/drashti-a10/LeetQuestion/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/drashti-a10/LeetQuestion/tree/main/0383-ransom-note/) | Easy |
+| [0394-decode-string](https://github.com/drashti-a10/LeetQuestion/tree/main/0394-decode-string/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/drashti-a10/LeetQuestion/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/drashti-a10/LeetQuestion/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/drashti-a10/LeetQuestion/tree/main/0647-palindromic-substrings/) | Medium |
@@ -186,6 +188,7 @@
 | [0143-reorder-list](https://github.com/drashti-a10/LeetQuestion/tree/main/0143-reorder-list/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/drashti-a10/LeetQuestion/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/drashti-a10/LeetQuestion/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0394-decode-string](https://github.com/drashti-a10/LeetQuestion/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/drashti-a10/LeetQuestion/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/drashti-a10/LeetQuestion/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/drashti-a10/LeetQuestion/tree/main/0739-daily-temperatures/) | Medium |
