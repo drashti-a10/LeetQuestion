@@ -12,15 +12,16 @@
  */
 var preorderTraversal = function(root) {
     let result = [];
-
-    function preorder(root){
+function preorder(root){
         if(root === null) return;
 
         result.push(root.val);
         preorder(root.left);
         preorder(root.right);
     }
+    
 
     preorder(root);
     return result;
 };
+
