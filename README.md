@@ -165,6 +165,7 @@
 | [0055-jump-game](https://github.com/drashti-a10/LeetQuestion/tree/main/0055-jump-game/) | Medium |
 | [0085-maximal-rectangle](https://github.com/drashti-a10/LeetQuestion/tree/main/0085-maximal-rectangle/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/drashti-a10/LeetQuestion/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/drashti-a10/LeetQuestion/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/drashti-a10/LeetQuestion/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0647-palindromic-substrings](https://github.com/drashti-a10/LeetQuestion/tree/main/0647-palindromic-substrings/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/drashti-a10/LeetQuestion/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -277,6 +278,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/drashti-a10/LeetQuestion/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/drashti-a10/LeetQuestion/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/drashti-a10/LeetQuestion/tree/main/0112-path-sum/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/drashti-a10/LeetQuestion/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/drashti-a10/LeetQuestion/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/drashti-a10/LeetQuestion/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/drashti-a10/LeetQuestion/tree/main/0226-invert-binary-tree/) | Easy |
@@ -290,6 +292,7 @@
 | [0101-symmetric-tree](https://github.com/drashti-a10/LeetQuestion/tree/main/0101-symmetric-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/drashti-a10/LeetQuestion/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/drashti-a10/LeetQuestion/tree/main/0112-path-sum/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/drashti-a10/LeetQuestion/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/drashti-a10/LeetQuestion/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/drashti-a10/LeetQuestion/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/drashti-a10/LeetQuestion/tree/main/0226-invert-binary-tree/) | Easy |
@@ -305,6 +308,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/drashti-a10/LeetQuestion/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/drashti-a10/LeetQuestion/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/drashti-a10/LeetQuestion/tree/main/0112-path-sum/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/drashti-a10/LeetQuestion/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/drashti-a10/LeetQuestion/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/drashti-a10/LeetQuestion/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/drashti-a10/LeetQuestion/tree/main/0226-invert-binary-tree/) | Easy |
@@ -323,6 +327,7 @@
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/drashti-a10/LeetQuestion/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/drashti-a10/LeetQuestion/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Lifting
 | Problem Name | Difficulty |
