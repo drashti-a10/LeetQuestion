@@ -28,6 +28,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/drashti-a10/LeetQuestion/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/drashti-a10/LeetQuestion/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/drashti-a10/LeetQuestion/tree/main/0189-rotate-array/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/drashti-a10/LeetQuestion/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/drashti-a10/LeetQuestion/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/drashti-a10/LeetQuestion/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/drashti-a10/LeetQuestion/tree/main/0283-move-zeroes/) | Easy |
@@ -97,6 +98,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/drashti-a10/LeetQuestion/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/drashti-a10/LeetQuestion/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/drashti-a10/LeetQuestion/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/drashti-a10/LeetQuestion/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -134,6 +136,7 @@
 | [0035-search-insert-position](https://github.com/drashti-a10/LeetQuestion/tree/main/0035-search-insert-position/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/drashti-a10/LeetQuestion/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/drashti-a10/LeetQuestion/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/drashti-a10/LeetQuestion/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/drashti-a10/LeetQuestion/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0704-binary-search](https://github.com/drashti-a10/LeetQuestion/tree/main/0704-binary-search/) | Easy |
 ## String
@@ -225,6 +228,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/drashti-a10/LeetQuestion/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/drashti-a10/LeetQuestion/tree/main/0076-minimum-window-substring/) | Hard |
+| [0209-minimum-size-subarray-sum](https://github.com/drashti-a10/LeetQuestion/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/drashti-a10/LeetQuestion/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/drashti-a10/LeetQuestion/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 ## Divide and Conquer
