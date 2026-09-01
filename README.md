@@ -27,6 +27,7 @@
 | [0152-maximum-product-subarray](https://github.com/drashti-a10/LeetQuestion/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/drashti-a10/LeetQuestion/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/drashti-a10/LeetQuestion/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0169-majority-element](https://github.com/drashti-a10/LeetQuestion/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/drashti-a10/LeetQuestion/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/drashti-a10/LeetQuestion/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/drashti-a10/LeetQuestion/tree/main/0217-contains-duplicate/) | Easy |
@@ -84,6 +85,7 @@
 | [0141-linked-list-cycle](https://github.com/drashti-a10/LeetQuestion/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/drashti-a10/LeetQuestion/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/drashti-a10/LeetQuestion/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0169-majority-element](https://github.com/drashti-a10/LeetQuestion/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/drashti-a10/LeetQuestion/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/drashti-a10/LeetQuestion/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/drashti-a10/LeetQuestion/tree/main/0217-contains-duplicate/) | Easy |
@@ -182,6 +184,7 @@
 | [0049-group-anagrams](https://github.com/drashti-a10/LeetQuestion/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/drashti-a10/LeetQuestion/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/drashti-a10/LeetQuestion/tree/main/0075-sort-colors/) | Medium |
+| [0169-majority-element](https://github.com/drashti-a10/LeetQuestion/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/drashti-a10/LeetQuestion/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/drashti-a10/LeetQuestion/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/drashti-a10/LeetQuestion/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -236,6 +239,7 @@
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/drashti-a10/LeetQuestion/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/drashti-a10/LeetQuestion/tree/main/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/drashti-a10/LeetQuestion/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/drashti-a10/LeetQuestion/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -255,6 +259,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/drashti-a10/LeetQuestion/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/drashti-a10/LeetQuestion/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/drashti-a10/LeetQuestion/tree/main/0383-ransom-note/) | Easy |
 ## Queue
@@ -355,4 +360,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/drashti-a10/LeetQuestion/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/drashti-a10/LeetQuestion/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
