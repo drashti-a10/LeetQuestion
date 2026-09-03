@@ -24,6 +24,7 @@
 | [0085-maximal-rectangle](https://github.com/drashti-a10/LeetQuestion/tree/main/0085-maximal-rectangle/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/drashti-a10/LeetQuestion/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/drashti-a10/LeetQuestion/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/drashti-a10/LeetQuestion/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/drashti-a10/LeetQuestion/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/drashti-a10/LeetQuestion/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/drashti-a10/LeetQuestion/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -121,6 +122,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/drashti-a10/LeetQuestion/tree/main/0002-add-two-numbers/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/drashti-a10/LeetQuestion/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/drashti-a10/LeetQuestion/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/drashti-a10/LeetQuestion/tree/main/0202-happy-number/) | Easy |
 ## Recursion
@@ -199,6 +201,7 @@
 | [0143-reorder-list](https://github.com/drashti-a10/LeetQuestion/tree/main/0143-reorder-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/drashti-a10/LeetQuestion/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/drashti-a10/LeetQuestion/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/drashti-a10/LeetQuestion/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/drashti-a10/LeetQuestion/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/drashti-a10/LeetQuestion/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0394-decode-string](https://github.com/drashti-a10/LeetQuestion/tree/main/0394-decode-string/) | Medium |
