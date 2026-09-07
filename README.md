@@ -123,6 +123,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/drashti-a10/LeetQuestion/tree/main/0002-add-two-numbers/) | Medium |
+| [0050-powx-n](https://github.com/drashti-a10/LeetQuestion/tree/main/0050-powx-n/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/drashti-a10/LeetQuestion/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/drashti-a10/LeetQuestion/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/drashti-a10/LeetQuestion/tree/main/0202-happy-number/) | Easy |
@@ -131,6 +132,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/drashti-a10/LeetQuestion/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/drashti-a10/LeetQuestion/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0050-powx-n](https://github.com/drashti-a10/LeetQuestion/tree/main/0050-powx-n/) | Medium |
 | [0143-reorder-list](https://github.com/drashti-a10/LeetQuestion/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/drashti-a10/LeetQuestion/tree/main/0206-reverse-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/drashti-a10/LeetQuestion/tree/main/0394-decode-string/) | Medium |
