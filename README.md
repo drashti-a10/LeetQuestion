@@ -24,6 +24,7 @@
 | [0085-maximal-rectangle](https://github.com/drashti-a10/LeetQuestion/tree/main/0085-maximal-rectangle/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/drashti-a10/LeetQuestion/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/drashti-a10/LeetQuestion/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0136-single-number](https://github.com/drashti-a10/LeetQuestion/tree/main/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/drashti-a10/LeetQuestion/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/drashti-a10/LeetQuestion/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/drashti-a10/LeetQuestion/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -224,6 +225,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/drashti-a10/LeetQuestion/tree/main/0136-single-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/drashti-a10/LeetQuestion/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
