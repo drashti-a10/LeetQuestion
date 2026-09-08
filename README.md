@@ -38,6 +38,7 @@
 | [0287-find-the-duplicate-number](https://github.com/drashti-a10/LeetQuestion/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/drashti-a10/LeetQuestion/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/drashti-a10/LeetQuestion/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0454-4sum-ii](https://github.com/drashti-a10/LeetQuestion/tree/main/0454-4sum-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/drashti-a10/LeetQuestion/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/drashti-a10/LeetQuestion/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/drashti-a10/LeetQuestion/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -97,6 +98,7 @@
 | [0383-ransom-note](https://github.com/drashti-a10/LeetQuestion/tree/main/0383-ransom-note/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/drashti-a10/LeetQuestion/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/drashti-a10/LeetQuestion/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0454-4sum-ii](https://github.com/drashti-a10/LeetQuestion/tree/main/0454-4sum-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/drashti-a10/LeetQuestion/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/drashti-a10/LeetQuestion/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Prefix Sum
