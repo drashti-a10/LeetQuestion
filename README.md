@@ -47,6 +47,7 @@
 | [0739-daily-temperatures](https://github.com/drashti-a10/LeetQuestion/tree/main/0739-daily-temperatures/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/drashti-a10/LeetQuestion/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/drashti-a10/LeetQuestion/tree/main/0946-validate-stack-sequences/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/drashti-a10/LeetQuestion/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,6 +111,7 @@
 | [0238-product-of-array-except-self](https://github.com/drashti-a10/LeetQuestion/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/drashti-a10/LeetQuestion/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/drashti-a10/LeetQuestion/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/drashti-a10/LeetQuestion/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,6 +152,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/drashti-a10/LeetQuestion/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/drashti-a10/LeetQuestion/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0704-binary-search](https://github.com/drashti-a10/LeetQuestion/tree/main/0704-binary-search/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/drashti-a10/LeetQuestion/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -246,6 +249,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/drashti-a10/LeetQuestion/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/drashti-a10/LeetQuestion/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/drashti-a10/LeetQuestion/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/drashti-a10/LeetQuestion/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
