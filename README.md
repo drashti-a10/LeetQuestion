@@ -40,6 +40,7 @@
 | [0303-range-sum-query-immutable](https://github.com/drashti-a10/LeetQuestion/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/drashti-a10/LeetQuestion/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/drashti-a10/LeetQuestion/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/drashti-a10/LeetQuestion/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0454-4sum-ii](https://github.com/drashti-a10/LeetQuestion/tree/main/0454-4sum-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/drashti-a10/LeetQuestion/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/drashti-a10/LeetQuestion/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -82,6 +83,7 @@
 | [0011-container-with-most-water](https://github.com/drashti-a10/LeetQuestion/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/drashti-a10/LeetQuestion/tree/main/0055-jump-game/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/drashti-a10/LeetQuestion/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/drashti-a10/LeetQuestion/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -205,6 +207,7 @@
 | [0242-valid-anagram](https://github.com/drashti-a10/LeetQuestion/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/drashti-a10/LeetQuestion/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/drashti-a10/LeetQuestion/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/drashti-a10/LeetQuestion/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
