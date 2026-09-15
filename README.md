@@ -49,6 +49,7 @@
 | [0739-daily-temperatures](https://github.com/drashti-a10/LeetQuestion/tree/main/0739-daily-temperatures/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/drashti-a10/LeetQuestion/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/drashti-a10/LeetQuestion/tree/main/0946-validate-stack-sequences/) | Medium |
+| [0986-interval-list-intersections](https://github.com/drashti-a10/LeetQuestion/tree/main/0986-interval-list-intersections/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/drashti-a10/LeetQuestion/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -77,6 +78,7 @@
 | [0344-reverse-string](https://github.com/drashti-a10/LeetQuestion/tree/main/0344-reverse-string/) | Easy |
 | [0647-palindromic-substrings](https://github.com/drashti-a10/LeetQuestion/tree/main/0647-palindromic-substrings/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/drashti-a10/LeetQuestion/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [0986-interval-list-intersections](https://github.com/drashti-a10/LeetQuestion/tree/main/0986-interval-list-intersections/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -387,4 +389,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/drashti-a10/LeetQuestion/tree/main/0169-majority-element/) | Easy |
+## Sweep Line
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0986-interval-list-intersections](https://github.com/drashti-a10/LeetQuestion/tree/main/0986-interval-list-intersections/) | Medium |
 <!---LeetCode Topics End-->
