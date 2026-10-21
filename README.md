@@ -53,6 +53,7 @@
 | [0946-validate-stack-sequences](https://github.com/drashti-a10/LeetQuestion/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0986-interval-list-intersections](https://github.com/drashti-a10/LeetQuestion/tree/main/0986-interval-list-intersections/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/drashti-a10/LeetQuestion/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [2596-check-knight-tour-configuration](https://github.com/drashti-a10/LeetQuestion/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -299,6 +300,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0946-validate-stack-sequences](https://github.com/drashti-a10/LeetQuestion/tree/main/0946-validate-stack-sequences/) | Medium |
+| [2596-check-knight-tour-configuration](https://github.com/drashti-a10/LeetQuestion/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -308,6 +310,7 @@
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/drashti-a10/LeetQuestion/tree/main/0037-sudoku-solver/) | Hard |
 | [0085-maximal-rectangle](https://github.com/drashti-a10/LeetQuestion/tree/main/0085-maximal-rectangle/) | Hard |
+| [2596-check-knight-tour-configuration](https://github.com/drashti-a10/LeetQuestion/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -342,6 +345,7 @@
 | [0226-invert-binary-tree](https://github.com/drashti-a10/LeetQuestion/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/drashti-a10/LeetQuestion/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/drashti-a10/LeetQuestion/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [2596-check-knight-tour-configuration](https://github.com/drashti-a10/LeetQuestion/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -368,6 +372,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/drashti-a10/LeetQuestion/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/drashti-a10/LeetQuestion/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/drashti-a10/LeetQuestion/tree/main/0226-invert-binary-tree/) | Easy |
+| [2596-check-knight-tour-configuration](https://github.com/drashti-a10/LeetQuestion/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
