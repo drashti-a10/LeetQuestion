@@ -16,6 +16,7 @@
 | [0035-search-insert-position](https://github.com/drashti-a10/LeetQuestion/tree/main/0035-search-insert-position/) | Easy |
 | [0037-sudoku-solver](https://github.com/drashti-a10/LeetQuestion/tree/main/0037-sudoku-solver/) | Hard |
 | [0042-trapping-rain-water](https://github.com/drashti-a10/LeetQuestion/tree/main/0042-trapping-rain-water/) | Hard |
+| [0046-permutations](https://github.com/drashti-a10/LeetQuestion/tree/main/0046-permutations/) | Medium |
 | [0049-group-anagrams](https://github.com/drashti-a10/LeetQuestion/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/drashti-a10/LeetQuestion/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/drashti-a10/LeetQuestion/tree/main/0053-maximum-subarray/) | Medium |
@@ -406,6 +407,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/drashti-a10/LeetQuestion/tree/main/0037-sudoku-solver/) | Hard |
+| [0046-permutations](https://github.com/drashti-a10/LeetQuestion/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/drashti-a10/LeetQuestion/tree/main/0051-n-queens/) | Hard |
 ## Algorithm X
 | Problem Name | Difficulty |
