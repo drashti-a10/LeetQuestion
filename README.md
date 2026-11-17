@@ -24,6 +24,7 @@
 | [0056-merge-intervals](https://github.com/drashti-a10/LeetQuestion/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/drashti-a10/LeetQuestion/tree/main/0057-insert-interval/) | Medium |
 | [0075-sort-colors](https://github.com/drashti-a10/LeetQuestion/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/drashti-a10/LeetQuestion/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/drashti-a10/LeetQuestion/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/drashti-a10/LeetQuestion/tree/main/0085-maximal-rectangle/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/drashti-a10/LeetQuestion/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -249,6 +250,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/drashti-a10/LeetQuestion/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/drashti-a10/LeetQuestion/tree/main/0136-single-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/drashti-a10/LeetQuestion/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Union-Find
@@ -409,6 +411,7 @@
 | [0037-sudoku-solver](https://github.com/drashti-a10/LeetQuestion/tree/main/0037-sudoku-solver/) | Hard |
 | [0046-permutations](https://github.com/drashti-a10/LeetQuestion/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/drashti-a10/LeetQuestion/tree/main/0051-n-queens/) | Hard |
+| [0078-subsets](https://github.com/drashti-a10/LeetQuestion/tree/main/0078-subsets/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
