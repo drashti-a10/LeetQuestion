@@ -36,6 +36,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/drashti-a10/LeetQuestion/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/drashti-a10/LeetQuestion/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/drashti-a10/LeetQuestion/tree/main/0189-rotate-array/) | Medium |
+| [0200-number-of-islands](https://github.com/drashti-a10/LeetQuestion/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/drashti-a10/LeetQuestion/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/drashti-a10/LeetQuestion/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/drashti-a10/LeetQuestion/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -257,6 +258,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/drashti-a10/LeetQuestion/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0200-number-of-islands](https://github.com/drashti-a10/LeetQuestion/tree/main/0200-number-of-islands/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -313,6 +315,7 @@
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/drashti-a10/LeetQuestion/tree/main/0037-sudoku-solver/) | Hard |
 | [0085-maximal-rectangle](https://github.com/drashti-a10/LeetQuestion/tree/main/0085-maximal-rectangle/) | Hard |
+| [0200-number-of-islands](https://github.com/drashti-a10/LeetQuestion/tree/main/0200-number-of-islands/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/drashti-a10/LeetQuestion/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -345,6 +348,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/drashti-a10/LeetQuestion/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/drashti-a10/LeetQuestion/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/drashti-a10/LeetQuestion/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0200-number-of-islands](https://github.com/drashti-a10/LeetQuestion/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/drashti-a10/LeetQuestion/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/drashti-a10/LeetQuestion/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/drashti-a10/LeetQuestion/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -374,6 +378,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/drashti-a10/LeetQuestion/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/drashti-a10/LeetQuestion/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/drashti-a10/LeetQuestion/tree/main/0112-path-sum/) | Easy |
+| [0200-number-of-islands](https://github.com/drashti-a10/LeetQuestion/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/drashti-a10/LeetQuestion/tree/main/0226-invert-binary-tree/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/drashti-a10/LeetQuestion/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## DP on Trees
