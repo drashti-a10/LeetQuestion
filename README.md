@@ -55,6 +55,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/drashti-a10/LeetQuestion/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/drashti-a10/LeetQuestion/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0986-interval-list-intersections](https://github.com/drashti-a10/LeetQuestion/tree/main/0986-interval-list-intersections/) | Medium |
+| [0994-rotting-oranges](https://github.com/drashti-a10/LeetQuestion/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/drashti-a10/LeetQuestion/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/drashti-a10/LeetQuestion/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Two Pointers
@@ -316,6 +317,7 @@
 | [0037-sudoku-solver](https://github.com/drashti-a10/LeetQuestion/tree/main/0037-sudoku-solver/) | Hard |
 | [0085-maximal-rectangle](https://github.com/drashti-a10/LeetQuestion/tree/main/0085-maximal-rectangle/) | Hard |
 | [0200-number-of-islands](https://github.com/drashti-a10/LeetQuestion/tree/main/0200-number-of-islands/) | Medium |
+| [0994-rotting-oranges](https://github.com/drashti-a10/LeetQuestion/tree/main/0994-rotting-oranges/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/drashti-a10/LeetQuestion/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -380,6 +382,7 @@
 | [0112-path-sum](https://github.com/drashti-a10/LeetQuestion/tree/main/0112-path-sum/) | Easy |
 | [0200-number-of-islands](https://github.com/drashti-a10/LeetQuestion/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/drashti-a10/LeetQuestion/tree/main/0226-invert-binary-tree/) | Easy |
+| [0994-rotting-oranges](https://github.com/drashti-a10/LeetQuestion/tree/main/0994-rotting-oranges/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/drashti-a10/LeetQuestion/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
